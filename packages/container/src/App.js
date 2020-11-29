@@ -5,7 +5,6 @@ export default () => {
     return (
         <>
             <h1>Container App</h1>
-            <hr />
             <MarketingApp />
         </>
     )
